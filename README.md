@@ -25,6 +25,6 @@ Website ini dirancang agar tampil optimal di berbagai ukuran layar:
 
 ## 📸 Screenshot Hasil
 Klik link berikut untuk melihat hasil tampilan di berbagai perangkat:  
-- [🖥️ Tampilan Desktop](screenshot\desktop-view.png)  
-- [📱 Tampilan Mobile](screenshot\mobile-view.png)  
-- [💻 Tampilan Tablet](screenshot\tablet-view.png)
+- 🖥️ Tampilan Desktop: ./screenshot/desktop-view.png
+- 📱 Tampilan Mobile: ./screenshot/mobile-view.png 
+- 💻 Tampilan Tablet: ./screenshot/tablet-view.png
